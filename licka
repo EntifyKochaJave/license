@@ -1,2 +1,2 @@
-mylobby: true
-localhost: false
+mylobby: false
+localhost: true
